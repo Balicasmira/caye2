@@ -160,6 +160,19 @@
           "settings": {
             "liquid": "<hr style=\"border: none; border-top: 1px solid black; margin: 20px 0;\">"
           }
+        },
+        "paywhirl_subscriptions_paywhirl_plan_selector_pYFBFa": {
+          "type": "shopify://apps/paywhirl-subscriptions/blocks/paywhirl-plan-selector/41e95d60-82cf-46e8-84de-618d7e4c37b7",
+          "disabled": true,
+          "settings": {
+            "font_scale": 100,
+            "theme": "default",
+            "show_prices": "default",
+            "show_per_delivery_prices": "default",
+            "selling_plans_first": false,
+            "theme_color": "#334FB4",
+            "product": "{{product}}"
+          }
         }
       },
       "block_order": [
@@ -185,7 +198,8 @@
         "separator_NyY8hA",
         "liquid_69gTBj",
         "description",
-        "liquid_WNUeX4"
+        "liquid_WNUeX4",
+        "paywhirl_subscriptions_paywhirl_plan_selector_pYFBFa"
       ],
       "custom_css": [
         ".div {margin-bottom: 0; padding-bottom: 0;}"
