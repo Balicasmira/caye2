@@ -20,7 +20,7 @@
         "subheading_9q7aDW": {
           "type": "subheading",
           "settings": {
-            "text": "Lucelle Paris"
+            "text": "Caye Milan"
           }
         },
         "heading_jyn4Tr": {
@@ -34,7 +34,7 @@
         "richtext_KqWkWA": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Où l'élégance française et le style intemporel se rencontrent.</p>"
+            "content": "<p><strong>Dove l’eleganza italiana incontra lo stile senza tempo.</strong> ✅</p>"
           }
         }
       },
@@ -62,7 +62,7 @@
         "full_width": true,
         "remove_vertical_spacing": true,
         "remove_horizontal_spacing": false,
-        "html": "<section id=\"shopify-section-template--24595606045056__impact-text\" class=\"shopify-section shopify-section--impact-text\"><style>\n  #shopify-section-template--24595606045056__impact-text {\n    --section-background-hash: 0;\n  }\n\n  #shopify-section-template--24595606045056__impact-text + * {\n    --previous-section-background-hash: 0;\n  }</style>\n<style>\n    #shopify-section-template--24595606045056__impact-text {\n      --impact-text-font-size: calc(min(20vw, 65px) * 1);\n      --impact-text-auto-columns: minmax(0, 1fr);\n    }\n\n    @media screen and (min-width: 700px) {\n      #shopify-section-template--24595606045056__impact-text {\n        --impact-text-font-size: calc(min(15vw, var(--container-max-width) * 0.15) / 1 * 1);\n        --impact-text-auto-columns: minmax(0, 1fr);\n      }\n    }\n  </style>\n<div class=\"section   section-blends section-full text-custom\" style=\"--text-color: 0 0 0;\">\n    <div>\n      <div class=\"impact-text impact-text--center \"><div class=\"snap-center\">\n<h2 class=\"impact-text__text heading break-all\">\n                  <impact-text reveal-js=\"\" style=\"opacity: 1; transform: translateY(0px);\"><span class=\"text-gradient \" style=\"--gradient: linear-gradient(180deg, rgba(0, 0, 0, 1), rgba(26, 26, 26, 0) 100%)\">100% féminité</span></impact-text>\n                </h2>\n<div class=\"impact-text__content\">\n                  <div class=\"prose\"><p>Pour la femme qui rayonne de beauté avec fierté, chaque jour.</p></div>\n                </div>\n</div></div>\n    </div>\n  </div></section>",
+        "html": "<section id=\"shopify-section-template--24595606045056__impact-text\" class=\"shopify-section shopify-section--impact-text\"><style>\n  #shopify-section-template--24595606045056__impact-text {\n    --section-background-hash: 0;\n  }\n\n  #shopify-section-template--24595606045056__impact-text + * {\n    --previous-section-background-hash: 0;\n  }</style>\n<style>\n    #shopify-section-template--24595606045056__impact-text {\n      --impact-text-font-size: calc(min(20vw, 65px) * 1);\n      --impact-text-auto-columns: minmax(0, 1fr);\n    }\n\n    @media screen and (min-width: 700px) {\n      #shopify-section-template--24595606045056__impact-text {\n        --impact-text-font-size: calc(min(15vw, var(--container-max-width) * 0.15) / 1 * 1);\n        --impact-text-auto-columns: minmax(0, 1fr);\n      }\n    }\n  </style>\n<div class=\"section   section-blends section-full text-custom\" style=\"--text-color: 0 0 0;\">\n    <div>\n      <div class=\"impact-text impact-text--center \"><div class=\"snap-center\">\n<h2 class=\"impact-text__text heading break-all\">\n                  <impact-text reveal-js=\"\" style=\"opacity: 1; transform: translateY(0px);\"><span class=\"text-gradient \" style=\"--gradient: linear-gradient(180deg, rgba(0, 0, 0, 1), rgba(26, 26, 26, 0) 100%)\">100% femminilità </span></impact-text>\n                </h2>\n<div class=\"impact-text__content\">\n                  <div class=\"prose\"><p>Per la donna che risplende di bellezza con orgoglio, ogni giorno.</p></div>\n                </div>\n</div></div>\n    </div>\n  </div></section>",
         "background": "#fff5f5",
         "background_gradient": "",
         "text_color": ""
@@ -74,7 +74,8 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "title": "Soldes d'hiver : Jusqu'à 70% de réduction",
+            "image": "shopify://shop_images/close-up-of-a-pine-tree-showing-texture-of-pine-needles.jpg",
+            "title": "Saldi invernali: Fino al -70%",
             "heading_tag": "h4",
             "link_url": "shopify://collections/all",
             "link_text": "",
@@ -95,9 +96,10 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "title": "À propos de nous",
+            "image": "shopify://shop_images/highway-tail-light-streaks.jpg",
+            "title": "Chi siamo",
             "heading_tag": "h4",
-            "link_url": "shopify://pages/a-propos-de-nous",
+            "link_url": "shopify://collections",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
@@ -116,7 +118,8 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "title": "Contact",
+            "image": "shopify://shop_images/contact-customer-service.jpg",
+            "title": "Contattaci",
             "heading_tag": "h4",
             "link_url": "shopify://pages/contact",
             "link_text": "",
@@ -136,6 +139,7 @@
         },
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "title": "Travailler avec nous",
             "heading_tag": "h4",
@@ -317,29 +321,29 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Expédions",
-            "content": "<p>Nous expédions toutes nos commandes en France avec La Poste. Vous commandez avant 23h ? Votre colis sera expédié gratuitement le jour suivant. Ainsi, vous recevrez votre commande rapidement et sans frais supplémentaires!</p>"
+            "title": "Spedizione",
+            "content": "<p>Spediamo tutti i nostri ordini in Italia con DHL. Ordini prima delle 23:00? Il tuo pacco sarà spedito gratuitamente il giorno successivo. Così riceverai il tuo ordine rapidamente e senza costi aggiuntivi!</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Retours",
-            "content": "<p>Vous n'êtes pas entièrement satisfait ? Pas de panique ! Vous pouvez retourner votre commande facilement et rapidement dans les 14 jours suivant la réception. Nous veillons à ce que le processus se déroule sans accroc, pour que vous n'ayez rien à craindre</p>"
+            "title": "Resi",
+            "content": "<p>Non sei completamente soddisfatto? Niente panico! Puoi restituire il tuo ordine facilmente e rapidamente entro 30 giorni dalla ricezione. Ci assicuriamo che il processo sia senza intoppi, così non devi preoccuparti di nulla.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Taille",
-            "content": "<p>Nos vêtements taillent exactement comme indiqué dans le guide des tailles. Pour chaque produit, vous trouverez le guide des tailles, afin de toujours choisir la bonne taille et d'être sûr que cela vous ira parfaitement</p>"
+            "title": "Taglie",
+            "content": "<p>I nostri capi vestono esattamente come indicato nella guida alle taglie. Per ogni prodotto troverai la guida alle taglie, così potrai sempre scegliere la misura giusta e essere sicuro che ti starà perfettamente.</p>"
           }
         },
         "item_3EAGtY": {
           "type": "item",
           "settings": {
-            "title": "Vous aves d'autres questions?",
-            "content": "<p>Vous avez une question ou besoin de conseils ? N'hésitez pas à nous contacter. Nous sommes ici pour vous aider et vous conseiller.</p><p><br/>Email : </p><p><br/>LUN / VEN 9h00 - 17h00<br/>SAM / DIM 10h00 - 17h00</p>"
+            "title": "Hai altre domande?",
+            "content": "<p>Hai una domanda o bisogno di consigli? Non esitare a contattarci. Siamo qui per aiutarti e consigliarti.<br/><br/>Email: <strong>ciao@cayemilan.com</strong><br/><br/><strong>LUN / VEN 9:00 - 21:00<br/><br/>SAB / DOM 10:00 - 23:00</strong></p>"
           }
         }
       },
@@ -353,10 +357,10 @@
         "full_width": false,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Réponses à toutes vos questions!</p>",
+        "content": "<p><strong>Risposte a tutte le tue domande !</strong> </p>",
         "team_avatar_width": 160,
-        "support_hours": "Notre magasin est ouvert du lun / ven de 09h00 à 17h00 et du sam / dim de 10h00 à 17h00",
-        "answer_time": "Réponse sous 24 heures",
+        "support_hours": "Il nostro negozio è aperto dal lunedì al venerdì dalle 09:00 alle 17:00 e il sabato e la domenica dalle 10:00 alle 17:00.",
+        "answer_time": "Risposta entro 24 ore.",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
