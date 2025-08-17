@@ -428,6 +428,9 @@
     "checkout": {
       "shipping_errors": {
         "empty_state": "Spedizione Gratuita ( 5-7 giorni)"
+      },
+      "payment": {
+        "card_security_notice": "Tutte le transazioni sono sicure e crittografate. Il tuo ordine include resi gratuiti e accesso 24 ore su 24, 7 giorni su 7 al nostro pluripremiato servizio clienti."
       }
     }
   }
