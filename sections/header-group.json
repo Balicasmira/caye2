@@ -56,8 +56,8 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/logo-caye-milan.png",
-        "logo_max_width": 85,
+        "logo": "shopify://shop_images/logo-caye_571c679e-6b25-4523-b158-91f3ba3e8171.png",
+        "logo_max_width": 100,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
         "sidebar_menu": "",
