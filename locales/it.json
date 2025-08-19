@@ -435,6 +435,9 @@
       },
       "order_summary": {
         "recurring_subtotal_label": "Totale"
+      },
+      "subscriptions": {
+        "recurring_totals": "-"
       }
     }
   }
