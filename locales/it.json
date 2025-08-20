@@ -435,7 +435,7 @@
         "purchase_options_agreement_label": "CayeMilan.com"
       },
       "order_summary": {
-        "recurring_subtotal_label": "Totale",
+        "recurring_subtotal_label": "-",
         "recurring_total_tooltip": "Resi Gratuiti entro 30 Giorni ✅"
       },
       "subscriptions": {
