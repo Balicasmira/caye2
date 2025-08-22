@@ -8,9 +8,9 @@
  * ------------------------------------------------------------
  */
 {
-  "parent": "index.json",
-  "context": {
-    "market": "italy"
-  },
-  "sections": {}
+  "markets": {
+    "italy": {
+      "parent": "@default"
+    }
+  }
 }
