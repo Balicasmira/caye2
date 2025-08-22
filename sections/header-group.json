@@ -17,21 +17,21 @@
         "message_8K9zVe": {
           "type": "message",
           "settings": {
-            "text": "Spedizione Gratuita",
+            "text": "Livraison Gratuite",
             "url": ""
           }
         },
         "message": {
           "type": "message",
           "settings": {
-            "text": "Garanzia di reso al 100%",
+            "text": "Garantie de retour à 100 %",
             "url": ""
           }
         },
         "message_UjK433": {
           "type": "message",
           "settings": {
-            "text": "4,7/5 Valutato (+2300 recensioni)",
+            "text": "Noté 4,7/5 (+2300 avis)",
             "url": ""
           }
         }
