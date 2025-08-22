@@ -238,66 +238,6 @@
         "review_button_text_color": "#ffffff"
       }
     },
-    "testimonials_pWmrna": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_jge7Gq": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_apjaQD": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_egQV3E": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_jge7Gq",
-        "testimonial_apjaQD",
-        "testimonial_egQV3E"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": true,
-        "subheading": "",
-        "title": "Testimonials",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
-      }
-    },
     "text_with_icons_DTpD4Y": {
       "type": "text-with-icons",
       "blocks": {
@@ -589,7 +529,6 @@
   "order": [
     "main",
     "1742408186b99a7f2d",
-    "testimonials_pWmrna",
     "text_with_icons_DTpD4Y",
     "testimonials_UJCkNj",
     "image_with_text_overlay_MeEWqc",
