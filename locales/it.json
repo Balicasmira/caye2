@@ -440,6 +440,9 @@
       },
       "subscriptions": {
         "recurring_totals": "-"
+      },
+      "shipping": {
+        "delivery_title": "Spedizione"
       }
     }
   }
