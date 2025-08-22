@@ -73,15 +73,15 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Partecipa per vincere un credito shopping di 100 €!",
-            "content": "<p>Ogni mese offriamo 100 € a uno dei nostri fedeli iscritti Caye Milan!</p>"
+            "title": "Participez pour gagner un crédit shopping de 100 € !",
+            "content": "<p>Chaque mois, nous offrons 100 € à l'un de nos fidèles membres de Caye Milan !</p>"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "title": "Hai altre domande?",
-            "content": "<p>Hai una domanda o bisogno di consigli? Non esitare a contattarci. Siamo qui per aiutarti e consigliarti.<br/><br/>Email: ciao@cayemilan.com<br/><br/><strong>Registro: 78738792<br/><br/>Partita IVA: IT003035275B29<br/><br/>Orari di apertura:<br/><br/>Lunedì / Venerdì 09:00 - 17:00<br/><br/>Sabato / Domenica 10:00 - 17:00</strong><br/><br/>Indirizzo: Via Borgonuovo, 18, 20121 Milano</p>",
+            "title": "Avez-vous d'autres questions?",
+            "content": "<p>Une question ou besoin de conseils ? N'hésitez pas à nous contacter. Nous sommes là pour vous aider et vous conseiller<br/><br/>Email: bonjour@cayemilan.com<br/><br/><strong>Registre: 78738792<br/><br/></strong>Numéro de TVA<strong>: FR003035275B29<br/><br/></strong>Horaires d'ouverture :<strong><br/><br/>Lundì / Vendredi 09:00 - 17:00<br/><br/>Samedi / Dimanche 10:00 - 17:00</strong><br/><br/>Indirizzo: Via Borgonuovo, 18, 20121 Milano</p>",
             "enable_follow_on_shop": false
           }
         },
