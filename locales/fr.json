@@ -437,7 +437,8 @@
       },
       "order_summary": {
         "recurring_subtotal_label": "‎ ‎ ",
-        "recurring_total_tooltip": "‎ ‎ "
+        "recurring_total_tooltip": "‎ ‎ ",
+        "recurring_total_multiple_label": "   "
       },
       "payment": {
         "purchase_options_agreement_label": "Caye Milan - 2025.",
